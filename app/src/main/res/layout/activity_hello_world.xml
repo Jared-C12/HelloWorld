@@ -24,4 +24,20 @@
         android:id="@+id/txtOutput"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSayKanye"
+        android:text="カニエを言います"
+        android:layout_below="@+id/txtOutput"
+        android:layout_alignRight="@+id/btnSayHello"
+        android:layout_alignEnd="@+id/btnSayHello"
+        android:layout_marginTop="65dp"
+        android:onClick="sayKanye"
+        android:layout_alignLeft="@+id/btnSayHello"
+        android:layout_alignStart="@+id/btnSayHello" />
+        android:text="カニエを言います"
+
+
 </RelativeLayout>

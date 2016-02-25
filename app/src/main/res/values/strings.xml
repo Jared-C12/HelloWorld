@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
-    <string name="strButtonCaption">Click Here!</string>
-    <string name="strMessage">Hello!</string>
+    <string name="app_name">こんにちは世界</string>// Hello World
+    <string name="strButtonCaption">ここをクリック!</string>// click here
+    <string name="strMessage">こんにちは!</string>// Hi
+    <string name="strButtonKanye">カニエを言います</string> // say kanye
+    
 </resources>
